@@ -1,0 +1,262 @@
+[
+    {
+       "sport":"bowling",
+       "name":"Earl Anthony",
+       "career_earnings":1440000,
+       "perfect_games":25,
+       "pba_championships":43,
+       "events":[
+          {
+             "name":"japan_pba",
+             "score":300,
+             "year":1972
+          }
+       ]
+    },
+    {
+       "sport":"cricket",
+       "name":"Sachin Tendulkar",
+       "career_earnings":8000000,
+       "runs":15921,
+       "centuries":51,
+       "teammates":[
+          "Arshad Ayub",
+          "Kapil Dev"
+       ]
+    },
+    {
+       "sport":"tennis",
+       "name":"Steffi Graf",
+       "career_earnings":21000000,
+       "grand_slam_wins":22,
+       "surfaces":[
+          "grass",
+          "clay",
+          "hard court"
+       ]
+    },
+    {
+       "sport":"basketball",
+       "name":"LeBron James",
+       "career_earnings":581322455,
+       "nba_championships":4,
+       "all_star_appearances":20,
+       "teams":[
+          "Cleveland Cavaliers",
+          "Miami Heat",
+          "Los Angeles Lakers"
+       ]
+    },
+    {
+       "sport":"golf",
+       "name":"Tiger Woods",
+       "career_earnings":120999166,
+       "masters_wins":5,
+       "pga_championship_wins":4,
+       "ryder_cup_appearances":8
+    },
+    {
+       "sport":"track and field",
+       "name":"Usain Bolt",
+       "career_earnings":30000000,
+       "olympic_gold_medals":8,
+       "world_championship_titles":11,
+       "events":[
+          "100m",
+          "200m",
+          "4x100m relay"
+       ]
+    },
+    {
+       "sport":"basketball",
+       "name":"Stephen Curry",
+       "career_earnings":470141507,
+       "nba_championships":4,
+       "mvp_awards":2,
+       "teams":[
+          "Golden State Warriors"
+       ]
+    },
+    {
+       "sport":"tennis",
+       "name":"Serena Williams",
+       "career_earnings":95163017,
+       "grand_slam_wins":23,
+       "surfaces":[
+          "grass",
+          "clay",
+          "hard court"
+       ]
+    },
+    {
+       "sport":"swimming",
+       "name":"Michael Phelps",
+       "career_earnings":100000000,
+       "olympic_gold_medals":23,
+       "world_championship_titles":26,
+       "strokes":[
+          "freestyle",
+          "butterfly",
+          "backstroke",
+          "individual medley"
+       ]
+    },
+    {
+       "sport":"basketball",
+       "name":"Stephen Curry",
+       "career_earnings":470141507,
+       "nba_championships":4,
+       "mvp_awards":2,
+       "teams":[
+          "Golden State Warriors"
+       ]
+    },
+    {
+       "sport":"golf",
+       "name":"Rory McIlroy",
+       "career_earnings":80000000,
+       "major_wins":4,
+       "fedex_cup_titles":3,
+       "tours":[
+          "PGA Tour",
+          "European Tour"
+       ]
+    },
+    {
+       "sport":"soccer",
+       "name":"Cristiano Ronaldo",
+       "career_earnings":1000000000,
+       "fifa_world_cup_appearances":5,
+       "champions_league_titles":5,
+       "clubs":[
+          "Manchester United",
+          "Real Madrid",
+          "Juventus"
+       ]
+    },
+    {
+       "sport":"baseball",
+       "name":"Alex Rodriguez",
+       "career_earnings":455159552,
+       "mlb_all_star_appearances":14,
+       "world_series_titles":1,
+       "positions":[
+          "Shortstop",
+          "Third Baseman"
+       ]
+    },
+    {
+       "sport":"ice hockey",
+       "name":"Wayne Gretzky",
+       "career_earnings":90000000,
+       "stanley_cups":4,
+       "hart_trophy_wins":9,
+       "teams":[
+          "Edmonton Oilers",
+          "Los Angeles Kings",
+          "New York Rangers"
+       ]
+    },
+    {
+       "sport":"boxing",
+       "name":"Floyd Mayweather Jr.",
+       "career_earnings":1100000000,
+       "professional_record":"50-0",
+       "world_titles":15,
+       "weight_classes":[
+          "featherweight",
+          "lightweight",
+          "welterweight",
+          "light middleweight"
+       ]
+    },
+    {
+       "sport":"formula 1",
+       "name":"Lewis Hamilton",
+       "career_earnings":600000000,
+       "world_championships":7,
+       "race_wins":103,
+       "teams":[
+          "McLaren",
+          "Mercedes"
+       ]
+    },
+    {
+       "sport":"swimming",
+       "name":"Katie Ledecky",
+       "career_earnings":5000000,
+       "olympic_gold_medals":9,
+       "world_championship_titles":16,
+       "distance_freestyle_world_records":5
+    },
+    {
+       "sport":"baseball",
+       "name":"Mike Trout",
+       "career_earnings":267740125,
+       "mlb_all_star_appearances":11,
+       "mvp_awards":3,
+       "positions":[
+          "Center Fielder"
+       ]
+    },
+    {
+       "sport":"ice hockey",
+       "name":"Sidney Crosby",
+       "career_earnings":155890244,
+       "stanley_cups":3,
+       "hart_trophy_wins":2,
+       "teams":[
+          "Pittsburgh Penguins"
+       ]
+    },
+    {
+       "sport":"boxing",
+       "name":"Muhammad Ali",
+       "career_earnings":50000000,
+       "professional_record":"56-5",
+       "heavyweight_championships":3,
+       "nickname":"The Greatest"
+    },
+    {
+       "sport":"formula 1",
+       "name":"Michael Schumacher",
+       "career_earnings":800000000,
+       "world_championships":7,
+       "race_wins":91,
+       "teams":[
+          "Benetton",
+          "Ferrari",
+          "Mercedes"
+       ]
+    },
+    {
+       "sport":"basketball",
+       "name":"Michael Jordan",
+       "career_earnings":1900000000,
+       "nba_championships":6,
+       "mvp_awards":5,
+       "teams":[
+          "Chicago Bulls",
+          "Washington Wizards"
+       ]
+    },
+    {
+       "sport":"tennis",
+       "name":"Roger Federer",
+       "career_earnings":130600000,
+       "grand_slam_wins":20,
+       "surfaces":[
+          "grass",
+          "clay",
+          "hard court"
+       ]
+    },
+    {
+       "sport":"cricket",
+       "name":"Shane Warne",
+       "career_earnings":50000000,
+       "test_wickets":708,
+       "odi_wickets":293,
+       "specialty":"Leg-break bowler"
+    }
+ ]
